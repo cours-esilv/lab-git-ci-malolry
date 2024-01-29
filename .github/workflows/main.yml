@@ -47,4 +47,4 @@ jobs:
           install: true
       - name: Docker build
         run: |
-          docker build .
+          docker build .
